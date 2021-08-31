@@ -1,0 +1,16 @@
+{
+  "name": "remote-schema-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "apollo-server-express": "^3.3.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "graphql": "^15.5.2"
+  }
+}
